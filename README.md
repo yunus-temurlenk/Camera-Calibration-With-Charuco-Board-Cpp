@@ -1,7 +1,10 @@
-📌 Repository Description
-
-Camera-Calibration-With-Charuco-Board-Cpp
+# Camera-Calibration-With-Charuco-Board-Cpp
 A C++ implementation of camera calibration using an ArUco ChArUco board with OpenCV. This project detects ArUco markers and interpolates ChArUco corners across multiple calibration images to compute the camera matrix and distortion coefficients. It also includes real-time testing with live camera undistortion.
+
+
+![Image](https://github.com/user-attachments/assets/cc0620f9-1079-48e7-a3a9-fdb729b1ccee)
+
+# [YOUTUBE LINK](https://www.youtube.com/watch?v=RU9uCu2yIWE)
 
 ✨ Features
 
